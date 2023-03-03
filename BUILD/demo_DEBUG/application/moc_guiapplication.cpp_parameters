@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+D:/appliedGeometry/BUILD/demo_DEBUG/application/moc_guiapplication.cpp
+D:/appliedGeometry/demo/application/guiapplication.h

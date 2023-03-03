@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+D:/appliedGeometry/BUILD/demo_DEBUG/hidmanager/moc_hidmanager.cpp
+D:/appliedGeometry/demo/hidmanager/hidmanager.h
